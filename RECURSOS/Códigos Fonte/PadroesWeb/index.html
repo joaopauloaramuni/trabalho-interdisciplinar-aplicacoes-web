@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Padrões Web</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="dbfake.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav class="menu-principal">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li>ACME</li>
+                <li>Produtos</li>
+                <li>Serviços</li>
+                <li><a href="clientes.html">Clientes</a></li>
+                <li>Blog</li>
+                <li>Contato</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Produtos</h1>
+        <div id="lista-produtos">
+
+        </div>
+    </main>
+    <footer>
+        Copyright 2019 (c) Acme Corporation
+    </footer>
+
+    <script>
+        var prods = '';
+        for (i=0; i < db.dados.length; i++) {
+            prods += `<p class="produto-item">Produto: ${ db.dados[i].titulo } <br> <img src="${ db.dados[i].imagem }"></p>`;
+        }
+        document.getElementById('lista-produtos').innerHTML = prods;
+    
+    </script>
+</body>
+
+</html>

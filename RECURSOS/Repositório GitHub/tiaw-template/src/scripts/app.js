@@ -1,0 +1,1 @@
+const projName = 'TI - AW';

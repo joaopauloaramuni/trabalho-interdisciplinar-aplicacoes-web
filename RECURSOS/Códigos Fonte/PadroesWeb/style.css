@@ -1,0 +1,41 @@
+/* Cabeçalho do site */
+header {
+    height: 120px;
+    background-color: aquamarine;
+}
+
+.menu-principal {
+    float: right
+}
+
+.menu-principal > ul > li { 
+    display: inline-block;
+    padding: 8px;
+}
+
+.menu-principal > ul > li:hover {
+    background-color: dodgerblue
+}
+
+
+/* Corpo do site */
+main {
+    background-color: azure    
+}
+
+.produto-item {
+    width: 220px;
+    float: left;
+    padding: 0 10px;
+}
+
+.produto-item > img {
+}
+
+/* Rodapé do site */
+
+footer {
+    clear: both;
+    height: 80px;
+    background-color: bisque
+}
