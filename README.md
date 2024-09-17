@@ -3,3 +3,24 @@ Repo Trabalho Interdisciplinar: Aplicações Web
 
 https://github.com/ICEI-PUC-Minas-PMGES-TI
 <br>https://github.com/ICEI-PUC-Minas-PPLES-TI
+
+Seleção de vídeos e cursos sobre a ferramenta de Prototipação FIGMA (https://www.figma.com/community):
+
+https://www.youtube.com/watch?v=nxI661ksPYM - Criando um Wireframe com Figma - simples
+<br>https://www.youtube.com/watch?v=Y-Z3kNssFSo - Startup em menos de 1 hora - Criando um wireframe no Figma - Wireframe - simples.
+
+https://www.youtube.com/watch?v=y6AfYQ8UgPc&list=PLbNPqddwHzCjODpXISneYxXMSynJFhHmT
+9 vídeos do @Sicuro - curso de 4 anos atrás
+
+<br>https://sheisacreative.com.br/curso/bootcampinho-ui-ux-design - Bootcampinho Gratuito no Youtube sobre UI/UX Design - 2022
+
+<br>https://www.cursou.com.br/design/figma/#player - Curso de Figma no Youtube - didático e detalhado.
+
+Link de projetos de exemplo: 
+
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-violencia-mulher
+
+<br>https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech
+
+<br>https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-adote-pet/blob/main/docs/interface.md
+
