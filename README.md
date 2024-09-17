@@ -12,15 +12,15 @@ https://www.youtube.com/watch?v=nxI661ksPYM - Criando um Wireframe com Figma - s
 https://www.youtube.com/watch?v=y6AfYQ8UgPc&list=PLbNPqddwHzCjODpXISneYxXMSynJFhHmT
 9 vídeos do @Sicuro - curso de 4 anos atrás
 
-<br>https://sheisacreative.com.br/curso/bootcampinho-ui-ux-design - Bootcampinho Gratuito no Youtube sobre UI/UX Design - 2022
+https://sheisacreative.com.br/curso/bootcampinho-ui-ux-design - Bootcampinho Gratuito no Youtube sobre UI/UX Design - 2022
 
-<br>https://www.cursou.com.br/design/figma/#player - Curso de Figma no Youtube - didático e detalhado.
+https://www.cursou.com.br/design/figma/#player - Curso de Figma no Youtube - didático e detalhado.
 
 Link de projetos de exemplo: 
 
 https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-violencia-mulher
 
-<br>https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech
 
-<br>https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-adote-pet/blob/main/docs/interface.md
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-adote-pet/blob/main/docs/interface.md
 
