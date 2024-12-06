@@ -1,20 +1,6 @@
-# trabalho-interdisciplinar-aplicacoes-web
+-----
 
-<div align="center">
-    <table>
-        <tr>
-         <td align="center"></td>
-        </tr> 
-        <tr>
-            <td>
-                <img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center"></td>
-        </tr> 
-    </table>
-</div>
+<img alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/FUNDOCOREUCAPA.jpg?raw=true"/>
 
 -----
 
@@ -48,3 +34,10 @@ https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech
 
 https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-adote-pet/blob/main/docs/interface.md
 
+-----
+
+<div align="center">
+  <img width="70%" alt="pucminas" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/engsoft.png?raw=true"/>
+</div>
+
+-----
