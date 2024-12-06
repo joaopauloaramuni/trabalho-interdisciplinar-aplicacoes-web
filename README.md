@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=nxI661ksPYM - Criando um Wireframe com Figma - s
 <br>https://www.youtube.com/watch?v=Y-Z3kNssFSo - Startup em menos de 1 hora - Criando um wireframe no Figma - Wireframe - simples.
 
 https://www.youtube.com/watch?v=y6AfYQ8UgPc&list=PLbNPqddwHzCjODpXISneYxXMSynJFhHmT
-9 vídeos do @Sicuro - curso de 4 anos atrás
+<br>9 vídeos do @Sicuro - curso de 4 anos atrás
 
 https://sheisacreative.com.br/curso/bootcampinho-ui-ux-design - Bootcampinho Gratuito no Youtube sobre UI/UX Design - 2022
 
