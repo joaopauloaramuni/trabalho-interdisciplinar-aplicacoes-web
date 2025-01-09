@@ -13,6 +13,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
+### Sumário:
+- [Aulas em PDF](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/tree/main/PDF)
+- [Recursos](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/tree/main/RECURSOS)
+
 #### Links úteis:
 - [Repositório GitHub - ICEI PUC Minas PMGES TI](https://github.com/ICEI-PUC-Minas-PMGES-TI)
 - [Repositório GitHub - ICEI PUC Minas PPLES TI](https://github.com/ICEI-PUC-Minas-PPLES-TI)
