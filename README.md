@@ -26,27 +26,19 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [PMG ES 2024-2 TI1 - Nutri Smart](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-alimentacao-saudavel)
 - [PMG ES 2024-2 TI1 - Voto Ativo](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-ativa-politica)
 
------
+##### Seleção de vídeos e cursos sobre a ferramenta de prototipação Figma:
 
-Seleção de vídeos e cursos sobre a ferramenta de Prototipação FIGMA (https://www.figma.com/community):
+- [Criando um Wireframe com Figma](https://www.youtube.com/watch?v=nxI661ksPYM)  
+- [Startup em menos de 1 hora - Criando um Wireframe no Figma](https://www.youtube.com/watch?v=Y-Z3kNssFSo)  
+- [Curso de Figma - Playlist com 9 vídeos por @Sicuro](https://www.youtube.com/watch?v=y6AfYQ8UgPc&list=PLbNPqddwHzCjODpXISneYxXMSynJFhHmT)  
+- [Bootcampinho UI/UX Design - Curso gratuito no YouTube](https://sheisacreative.com.br/curso/bootcampinho-ui-ux-design)  
+- [Curso de Figma no YouTube - Didático e detalhado](https://www.cursou.com.br/design/figma/#player)  
 
-https://www.youtube.com/watch?v=nxI661ksPYM - Criando um Wireframe com Figma - simples
-<br>https://www.youtube.com/watch?v=Y-Z3kNssFSo - Startup em menos de 1 hora - Criando um wireframe no Figma - Wireframe - simples.
+##### Links de projetos de exemplo:
 
-https://www.youtube.com/watch?v=y6AfYQ8UgPc&list=PLbNPqddwHzCjODpXISneYxXMSynJFhHmT
-<br>9 vídeos do @Sicuro - curso de 4 anos atrás
-
-https://sheisacreative.com.br/curso/bootcampinho-ui-ux-design - Bootcampinho Gratuito no Youtube sobre UI/UX Design - 2022
-
-https://www.cursou.com.br/design/figma/#player - Curso de Figma no Youtube - didático e detalhado.
-
-Link de projetos de exemplo: 
-
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-violencia-mulher
-
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech
-
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-adote-pet/blob/main/docs/interface.md
+- [PMV SI 2021-2 E1 - Minas Unidas - Violência contra a mulher](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-violencia-mulher)  
+- [PMV SI 2024-1 PE1 - 60Tech](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech)  
+- [SI 2024-1 PE1 - Adote Pet](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-adote-pet/blob/main/docs/interface.md)  
 
 -----
 
