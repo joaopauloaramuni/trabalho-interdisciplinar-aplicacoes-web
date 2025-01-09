@@ -11,8 +11,22 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 1°Sem 2024
 - 2°Sem 2024
 
-https://github.com/ICEI-PUC-Minas-PMGES-TI
-<br>https://github.com/ICEI-PUC-Minas-PPLES-TI
+-----
+
+#### Links úteis:
+- [Repositório GitHub - ICEI PUC Minas PMGES TI](https://github.com/ICEI-PUC-Minas-PMGES-TI)
+- [Repositório GitHub - ICEI PUC Minas PPLES TI](https://github.com/ICEI-PUC-Minas-PPLES-TI)
+
+##### Trabalhos - 2°Sem 2024:
+
+- [PMG ES 2024-2 TI1 - Potencial Senior](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-potencial-senior)
+- [PMG ES 2024-2 TI1 - Culturar](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-tech-cult)
+- [PMG ES 2024-2 TI1 - Pulse Pump](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-treinos)
+- [PMG ES 2024-2 TI1 - Projeto Sangue](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-sangue)
+- [PMG ES 2024-2 TI1 - Nutri Smart](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-alimentacao-saudavel)
+- [PMG ES 2024-2 TI1 - Voto Ativo](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-ativa-politica)
+
+-----
 
 Seleção de vídeos e cursos sobre a ferramenta de Prototipação FIGMA (https://www.figma.com/community):
 
