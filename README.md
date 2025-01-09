@@ -38,7 +38,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - [PMV SI 2021-2 E1 - Minas Unidas - Violência contra a mulher](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-violencia-mulher)  
 - [PMV SI 2024-1 PE1 - 60Tech](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-60tech)  
-- [SI 2024-1 PE1 - Adote Pet](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-adote-pet/blob/main/docs/interface.md)  
+- [PMV SI 2024-1 PE1 - Adote Pet](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-adote-pet/blob/main/docs/interface.md)  
 
 -----
 
