@@ -33,6 +33,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [PMG ES 2024-2 TI1 - Projeto Sangue](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-sangue)
 - [PMG ES 2024-2 TI1 - Nutri Smart](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-alimentacao-saudavel)
 - [PMG ES 2024-2 TI1 - Voto Ativo](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-ativa-politica)
+- [PMG ES 2024-2 TI1 - Ondas de Calor](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-ondas-de-calor)
 
 ##### Trabalhos - 1°Sem 2024:
 
