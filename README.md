@@ -21,6 +21,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Repositório GitHub - ICEI PUC Minas PMGES TI](https://github.com/ICEI-PUC-Minas-PMGES-TI)
 - [Repositório GitHub - ICEI PUC Minas PPLES TI](https://github.com/ICEI-PUC-Minas-PPLES-TI)
 
+##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas:
+
+- https://sprinti.pucminas.br/
+
 ##### Trabalhos - 2°Sem 2024:
 
 - [PMG ES 2024-2 TI1 - Potencial Senior](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-potencial-senior)
