@@ -62,6 +62,49 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
+##### Exemplo de preenchimento do arquivo **citation.cff**:
+
+<details>
+  <summary>Clique para exibir</summary>
+
+```
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: QuelCaramel – Sistema de E-commerce para Doces Artesanais
+authors:
+  - family-names: Panzera
+    given-names: Arthur Lara
+  - family-names: Ribeiro
+    given-names: Rafaela Oliveira
+  - family-names: Ferreira
+    given-names: Thiago Henrique Lacerda
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Maia Filho
+    given-names: Danilo de Quadros
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Aramuni
+    given-names: João Paulo Carneiro
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Marques
+    given-names: Ramon Lacerda
+keywords:
+  - e-commerce
+  - Laravel
+  - PHP
+  - loja virtual
+  - integração com WhatsApp
+repository-code: https://github.com/RafaelaRibe1ro/quelcaramel
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2025-06-19
+```
+</details>
+
+-----
+
 <div align="center">
   <img width="70%" alt="pucminas" src="https://joaopauloaramuni.github.io/image/engsoft2.svg?raw=true"/>
 </div>
