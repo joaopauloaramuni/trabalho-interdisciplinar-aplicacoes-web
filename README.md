@@ -24,6 +24,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Repositório GitHub - ICEI PUC Minas PPLES TI](https://github.com/ICEI-PUC-Minas-PPLES-TI)
 
 ##### Templates genéricos de TIs:
+Template de repositório contendo a estrutura geral a ser usada nos trabalhos interdisciplinares (TI) do curso de Engenharia de Software da PUC Minas.
+
 - https://github.com/ICEI-PUC-Minas-PPLES-TI/TI-ES-GenericTemplate
 - https://github.com/ICEI-PUC-Minas-PMGES-TI/TI-ES-GenericTemplate
 
