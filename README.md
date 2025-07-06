@@ -80,13 +80,14 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
    - 🏆 Eleito trabalho destaque de TI1 - 2-2024
 
 #### 📅 1°Sem 2024:
-- [PMG ES 2024-1 TI1 - GasFinder](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-gas-finder)
 - [PMG ES 2024-1 TI1 - EasyTraining](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training)
 - [PMG ES 2024-1 TI1 - DropFleet](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-dropfleet)
 - [PMG ES 2024-1 TI1 - BudgetBuddy](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-budget_buddy)
 - [PMG ES 2024-1 TI1 - SportsMatchs](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-sports-matchs)
 - [PMG ES 2024-1 TI1 - BookTrade](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-booktrade)
 - [PMG ES 2024-1 TI1 - Agenda de Estudos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-agenda-de-estudos)
+- [PMG ES 2024-1 TI1 - GasFinder](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-gas-finder)
+   - 🏆 Eleito trabalho destaque de TI1 - 1-2024
 
 -----
 
