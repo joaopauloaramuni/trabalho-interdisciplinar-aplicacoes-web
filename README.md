@@ -37,6 +37,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 ##### Mapa de Trabalhos Interdisciplinares (TI) do curso de Engenharia de Software:
 
 - https://github.com/ICEI-PUC-Minas-PMGES-TI/TI-ES-NDE-Master
+- https://github.com/ICEI-PUC-Minas-PPLES-TI/TI-ES-NDE-Master
 
 ##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas:
 - https://sprinti.pucminas.br/
