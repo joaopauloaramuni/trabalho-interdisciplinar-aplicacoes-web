@@ -18,6 +18,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Recursos](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/tree/main/RECURSOS)
 - [Tutoriais](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/tree/main/TUTORIAIS)
 - [Certificados](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/tree/main/CERTIFICADOS)
+- [Plano de Ensino](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/tree/main/PLANO%20DE%20ENSINO)
 
 #### Links úteis:
 
