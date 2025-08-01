@@ -22,6 +22,27 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 #### Links úteis:
 
+##### 📚 Referências gerais
+
+###### 📌 Bibliografia Básica
+
+- 📕 [COHN, Mike – Desenvolvimento de Software com Scrum: Aplicando Métodos Ágeis com Sucesso](https://www.amazon.com.br/Desenvolvimento-Software-com-Scrum-Aplicando/dp/8577808076)  
+  Livro que apresenta como aplicar Scrum com eficácia em projetos reais de software. Escrito por um dos grandes nomes do desenvolvimento ágil, aborda papéis, cerimônias, estimativas e práticas essenciais. E-book. ISBN 9788577808199.
+
+- 📘 [FLANAGAN, David – JavaScript: O Guia Definitivo](https://www.amazon.com.br/JavaScript-Guia-Definitivo-David-Flanagan/dp/856583719X)  
+  Considerado uma bíblia do JavaScript, esse guia abrangente explora desde os fundamentos da linguagem até tópicos avançados, sendo essencial para desenvolvedores web. E-book. ISBN 9788565837484.
+
+- 📙 [INTERNATIONAL JOURNAL OF WEB INFORMATION SYSTEMS](https://www.emerald.com/ijwis)  
+  Publicação acadêmica trimestral da Emerald voltada a sistemas de informação na web. Abrange temas como mineração de dados, sistemas distribuídos, web semântica e engenharia de software. ISSN 1744-0092. Acesso em: 01 ago 2025.
+
+- 📚 [PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen; POSSAMAI, Viviane – Design de Interação: Além da Interação Humano-Computador](https://www.amazon.com.br/Design-Intera%C3%A7%C3%A3o-Al%C3%A9m-Humano-Computador/dp/8582600062)  
+  Obra referência em Interação Humano-Computador que trata de aspectos conceituais e práticos do design de interfaces. Amplamente usada em cursos de computação e design, com abordagem centrada no usuário. Porto Alegre: Bookman, 2005. ISBN 8536304944. Consta no acervo da PUC Minas.
+
+###### 📖 Bibliografia Complementar
+
+
+-----
+
 ##### 📊 Tendências e pesquisas
 
 ###### 📈 Relatórios e estudos sobre o mercado de tecnologia e comportamento de desenvolvedores  
