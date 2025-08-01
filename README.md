@@ -40,6 +40,23 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### 📖 Bibliografia Complementar
 
+- 📘 [ACM TRANSACTIONS ON THE WEB](https://dl.acm.org/journal/tweb)  
+  Publicação científica da ACM que cobre tecnologias da Web, como sistemas distribuídos, segurança, personalização e busca. Publicada quatro vezes por ano. ISSN 1559-114X. Acesso em: 1 ago. 2025.
+
+- 📙 [FLATSCHART, Fábio – HTML 5: Embarque imediato](https://www.amazon.com.br/HTML-Embarque-Imediato-F%C3%A1bio-Flatschart/dp/8574524778)  
+  Livro eletrônico introdutório sobre HTML5, ideal para quem está começando no desenvolvimento web. ISBN 9788574525778.
+
+- 📕 [HAROLD, Elliotte Rusty – Refatorando HTML: como melhorar o projeto de aplicações Web existentes](http://amazon.com.br/Refatorando-HTML-Melhorar-Aplica%C3%A7%C3%B5es-Existentes/dp/8577806316)  
+  Aborda técnicas práticas para reorganizar e melhorar código HTML de aplicações legadas. Porto Alegre: Bookman, 2010. ISBN 9788577806706. Livro eletrônico.
+
+- 📘 [MANZANO, José Augusto N. G.; TOLEDO, Suely Alves de – Guia de orientação e desenvolvimento de sites HTML, XHTML, CSS e JavaScript/JScript](https://www.amazon.com.br/Guia-orienta%C3%A7%C3%A3o-desenvolvimento-sites-Javascript/dp/8536501901)  
+  Obra abrangente e didática sobre criação de sites com HTML, CSS e JavaScript. 2. ed., São Paulo: Érica, 2010. ISBN 9788536501901. Consta no acervo da PUC Minas.
+
+- 📙 [MILETTO, Evandro Manara; BERTAGNOLLI, Silvia de Castro (org.) – Desenvolvimento de software II: introdução ao desenvolvimento web com HTML, CSS, JavaScript e PHP](https://www.amazon.com.br/Desenvolvimento-Software-II-Introdu%C3%A7%C3%A3o-JavaScript/dp/8582601956)  
+  Livro eletrônico focado no desenvolvimento web moderno com diversas tecnologias front-end e back-end. Porto Alegre: Bookman, 2014. ISBN 9788582601969.
+
+- 📕 [TERUEL, Evandro Carlos – HTML 5: guia prático](https://www.amazon.com.br/HTML-Pr%C3%A1tico-Evandro-Carlos-Teruel/dp/8536506067)  
+  Guia eletrônico prático e atualizado para aprender HTML5 com exemplos e exercícios. 2. ed. São Paulo: Érica, 2014. ISBN 9788536519296.
 
 -----
 
