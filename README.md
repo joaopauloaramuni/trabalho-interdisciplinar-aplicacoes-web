@@ -6,6 +6,8 @@
 
 # Repo Trabalho Interdisciplinar: Aplicações Web
 
+![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web?style=for-the-badge&color=007ec6) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web?style=for-the-badge&color=007ec6)  
+
 Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 1°Sem 2024
