@@ -76,25 +76,25 @@ Relatórios anuais e pesquisas globais ajudam a entender as principais linguagen
 
 -----
 
-##### :octocat: Organização no GitHub:
+##### Organização no GitHub
 As organizações abaixo incluem Trabalhos Interdisciplinares (TIs) e Trabalhos de Conclusão de Curso (TCCs) desenvolvidos pelos alunos do Curso de Engenharia de Software, da Pontifícia Universidade Católica de Minas Gerais.
 Os melhores TIs encontram-se publicamente disponíveis na [Revista SPRINTI](https://sprinti.pucminas.br) e os TCCs estão disponíveis no [catálogo](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue) do curso.
 
 - [Organização no GitHub - ICEI PUC Minas PMGES TI - Campus Coração Eucarístico](https://github.com/ICEI-PUC-Minas-PMGES-TI)
 - [Organização no GitHub - ICEI PUC Minas PPLES TI - Campus Lourdes](https://github.com/ICEI-PUC-Minas-PPLES-TI)
 
-##### Templates genéricos de TIs:
+##### Templates genéricos de TIs
 Template de repositório contendo a estrutura geral a ser usada nos trabalhos interdisciplinares (TI) do curso de Engenharia de Software da PUC Minas.
 
 - https://github.com/ICEI-PUC-Minas-PMGES-TI/TI-ES-GenericTemplate
 - https://github.com/ICEI-PUC-Minas-PPLES-TI/TI-ES-GenericTemplate
 
-##### Mapa de Trabalhos Interdisciplinares (TI) do curso de Engenharia de Software:
+##### Mapa de Trabalhos Interdisciplinares (TI) do curso de Engenharia de Software
 
 - https://github.com/ICEI-PUC-Minas-PMGES-TI/TI-ES-NDE-Master
 - https://github.com/ICEI-PUC-Minas-PPLES-TI/TI-ES-NDE-Master
 
-##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas:
+##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas
 - https://sprinti.pucminas.br/
 
 <table>
@@ -122,9 +122,9 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 -----
 
-### 🗓️ Trabalhos de TI1:
+#### 🗓️ Trabalhos de TI1:
 
-#### 📅 2°Sem 2024:
+##### 📅 2°Sem 2024:
 - [PMG ES 2024-2 TI1 - Potencial Senior](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-potencial-senior)
 - [PMG ES 2024-2 TI1 - Culturar](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-tech-cult)
 - [PMG ES 2024-2 TI1 - Pulse Pump](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-treinos)
@@ -135,7 +135,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
    - 🏆 Eleito trabalho destaque de TI1 - 2-2024
    - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/blob/main/CERTIFICADOS/2024-2-ti1-2401100-Certificates-best.pdf) de reconhecimento de trabalho destaque 
 
-#### 📅 1°Sem 2024:
+##### 📅 1°Sem 2024:
 - [PMG ES 2024-1 TI1 - EasyTraining](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training)
 - [PMG ES 2024-1 TI1 - DropFleet](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-dropfleet)
 - [PMG ES 2024-1 TI1 - BudgetBuddy](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-budget_buddy)
@@ -148,9 +148,9 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 -----
 
-### 🔖 Arquivo CITATION.cff:
+#### 🔖 Arquivo CITATION.cff:
 
-#### 📌 Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares
+##### 📌 Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares
 
 O arquivo `CITATION.cff` é um arquivo de metadados em formato `YAML` criado para padronizar a forma como softwares e projetos científicos devem ser citados. Ele é reconhecido por plataformas como o GitHub, que exibe automaticamente um botão de "Citar este repositório" quando o arquivo está presente e corretamente preenchido.  
 
@@ -169,7 +169,7 @@ No contexto do nosso curso de Engenharia de Software na PUC Minas, o `CITATION.c
 
 5. 🔍 Indexação e rastreabilidade institucional dos projetos para fins de avaliação, relatórios e participação em editais e eventos.
 
-#### ✅ Como preencher corretamente os campos
+##### ✅ Como preencher corretamente os campos
 
 | Campo            | Explicação resumida                                                                                                                                                        |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -183,14 +183,14 @@ No contexto do nosso curso de Engenharia de Software na PUC Minas, o `CITATION.c
 | `version`        | Versão do software — use 1.0.0 se for a entrega final.                                                                                                                     |
 | `date-released`  | Data de liberação da versão. Deve ser preenchida com a data de término do semestre acadêmico. Use o formato AAAA-MM-DD.                                                    |
 
-##### ⚠️ Importante:
+###### 📍 Aviso importante:
 
 - Preencha os nomes e sobrenomes completo dos autores sem abreviações  
 - Atualize os nomes dos autores caso tenha saído alguém do grupo de trabalho Interdisciplinar  
 - Não use siglas ou nomes genéricos no campo title.  
 - ❌ Não deixe o campo date-released em branco e use somente o formato AAAA-MM-DD.
 
-##### 📝 Exemplo de preenchimento do arquivo **CITATION.cff**:
+###### 📝 Exemplo de preenchimento do arquivo **CITATION.cff**:
 
 <details>
   <summary>Clique para exibir</summary>
