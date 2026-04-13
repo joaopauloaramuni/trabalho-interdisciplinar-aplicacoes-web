@@ -148,6 +148,38 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 -----
 
+#### 📄 README de projeto:
+
+Esta seção reúne um **template** construído por mim e **exemplos** reais de READMEs para ajudar você a estruturar, documentar e apresentar seus projetos de forma clara, organizada e profissional.
+
+##### 📕 Template de README de projeto:
+
+- :octocat: [Template de README](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/blob/main/TEMPLATES/template_README.md)
+
+##### 📘 Exemplos de README de projeto:
+
+- 🌐 [Tuscan](https://github.com/Berohlfs/BachelorsThesisSoftwareEngineering)
+  - :octocat: [GitHub Bernardo Rohlfs](https://github.com/Berohlfs)
+  - :octocat: [GitHub Eric Jardim](https://github.com/ericgcjardim)
+- 🌐 [Tech Fotebol Clube](https://github.com/ligiabicalho/Tech-Futebol-Clube)
+  - :octocat: [GitHub Lígia Bicalho](https://github.com/ligiabicalho)  
+- 🌐 [FeeduP-Mobile](https://github.com/FeedUp-Hub/FeeduP-Mobile)
+  - :octocat: [GitHub Fernando Santiago](https://github.com/fsaantiago)
+
+-----
+
+#### 🎨 Design System:
+
+O **Design System** é um conjunto de padrões, regras e componentes reutilizáveis que definem a identidade visual e o comportamento da interface de um sistema. Ele garante consistência entre telas, facilita o desenvolvimento e melhora a experiência do usuário ao padronizar cores, tipografia, botões, inputs e demais elementos visuais.
+
+🧑‍🤝‍🧑 Exemplo de Design System:
+
+- 🎨 [Design System do projeto CarFlow no Vercel](https://lab-carflow.vercel.app/design)
+- 📄 [Design System do projeto CarFlow em PDF](https://github.com/user-attachments/files/26679490/design-system.pdf)
+- :octocat: Design System criado pela aluna Laura Pontara - [GitHub](https://github.com/LauraPontara)
+
+-----
+
 #### 🔖 Arquivo CITATION.cff:
 
 ##### 📌 Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares
