@@ -133,7 +133,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PMG ES 2024-2 TI1 - Ondas de Calor](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-ondas-de-calor)
 - [PMG ES 2024-2 TI1 - Nutri Smart](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti1-2401100-projeto-alimentacao-saudavel)
    - 🏆 Eleito trabalho destaque de TI1 - 2-2024
-   - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/blob/main/CERTIFICADOS/2024-2-ti1-2401100-Certificates-best.pdf) de reconhecimento de trabalho destaque 
+   - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/blob/main/CERTIFICADOS/2024-2/2024-2-ti1-2401100-Certificates-best.pdf) de reconhecimento de trabalho destaque 
 
 ##### 📅 1°Sem 2024:
 - [PMG ES 2024-1 TI1 - EasyTraining](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-easy-training)
@@ -144,7 +144,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PMG ES 2024-1 TI1 - Agenda de Estudos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-agenda-de-estudos)
 - [PMG ES 2024-1 TI1 - GasFinder](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2010200-gas-finder)
    - 🏆 Eleito trabalho destaque de TI1 - 1-2024
-   - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/blob/main/CERTIFICADOS/2024-1-ti1-2010200-Certificates-best.pdf) de reconhecimento de trabalho destaque 
+   - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/blob/main/CERTIFICADOS/2024-1/2024-1-ti1-2010200-Certificates-best.pdf) de reconhecimento de trabalho destaque 
 
 -----
 
