@@ -15,6 +15,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
+<img src="https://joaopauloaramuni.github.io/image/ti1-es-aplicacoes-web.png" alt="banner"/>
+
+-----
+
 ### Sumário:
 - [Aulas em PDF](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/tree/main/PDF)
 - [Recursos](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-web/tree/main/RECURSOS)
